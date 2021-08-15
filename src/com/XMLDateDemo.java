@@ -143,7 +143,7 @@ public class XMLDateDemo {
         NodeList personList = root.getElementsByTagName("person");
         // System.out.println(personList);
 
-        // 这里获取第1个节点
+        // 这里获取第1个节点12321312312312321
         Node item = personList.item(0);
         System.out.println(item.getTextContent());// 获取第一个节点的所有子节点值
 
