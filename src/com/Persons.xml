@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><persons>
+    <pserson id="0">
+            <name>翠花</name>
+            <age>18</age>
+            <sex>女</sex>
+    </pserson>
+    <pserson id="1">
+        <name>老王</name>
+        <age>20</age>
+        <sex>男</sex>
+    </pserson>
+    <person id="3">
+        <name>老王</name>
+        <age>19</age>
+        <sex>中性</sex>
+    </person>
+    <person id="4">
+        <name>李星寅</name>
+        <age>20</age>
+        <sex>男</sex>
+    </person>
+</persons>
